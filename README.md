@@ -9,3 +9,7 @@
 # wget https://raw.githubusercontent.com/penjelajahwaktu/subrek/main/tid.sh && chmod +x tid.sh && ./tid.sh
 
 # wget https://raw.githubusercontent.com/penjelajahwaktu/subrek/main/der.sh && chmod +x der.sh && ./der.sh
+
+# wget -O run.sh https://raw.githubusercontent.com/DEV-DJNEWSENSE/WINDOWS11-RDP/main/run.sh && chmod +x run.sh && ./run.sh
+
+# 2KtRkhcqvGb9pHLTIlm35oPjzf2_4bLwDzDfPeEEuMaVGBtmW
